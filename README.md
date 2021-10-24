@@ -32,7 +32,7 @@
 <br/><br/>
 <p style="text-align: left;font-size: 18px"> What I like to do</p>
 
-<p align="left">
+<h2 align="left">
     <img alt="Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
     <img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
-</a>
+</h2>
