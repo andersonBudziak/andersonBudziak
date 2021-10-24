@@ -3,7 +3,7 @@
 <h2>  How contact me <h2> 
 
 <p align="left">
-<a href="www.linkedin.com/in/anderson-jorge">
+<a href="https://www.linkedin.com/in/anderson-jorge/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5511960636807&text=Tudo%20tranquilo%20Anderson%3F%20Vi%20seu%20perfil%20do%20GitHub%20e%20queria%20trocar%20algumas%20figurinhas%20com%20voc%C3%AA%3F">
